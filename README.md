@@ -1,16 +1,18 @@
-# flutter_application_1
+**Meu Ponto**
 
-A new Flutter project.
+*O aplicativo "Meu Ponto" é uma ferramenta de controle de ponto desenvolvida em Flutter. Com ele, os usuários podem facilmente registrar seus horários de entrada, saída para o almoço, retorno do almoço e saída, além de visualizar relatórios mensais com um resumo de seus horários registrados.*
 
-## Getting Started
+Funcionalidades
+- Registro de horários de entrada e saída.
+  
+- Registro de horários de saída para o almoço e retorno do almoço.
 
-This project is a starting point for a Flutter application.
+- Visualização de relatórios mensais com resumo dos horários registrados.
+  
+- Como Usar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Faça o login com seu usuário e senha.
+  
+- Clique nos botões flutuantes para registrar seus horários de entrada, saída para o almoço, retorno do almoço e saída.
+  
+- Visualize seus horários registrados e relatórios mensais na tela principal do aplicativo.
